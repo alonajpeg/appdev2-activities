@@ -1,0 +1,14 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. 
+The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. 
+The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+If, hypothetically, I was in this situation as a software engineer, the first thing that I would suggest to work on is risk management. 
+Early in the project, the team should have identified the potential risks related to resource availability and project complexity. In this way, the team can develop and implement risk mitigation plans.
+
+I also see an area for improvement in communication and collaboration within the team. The team should ensure that all members are well-informed about the progress and any issues that are arising as the project development progresses.
+
+In addition, to prevent delays in the testing process, it is best if the testing begins early in the development cycle and is consistent throughout.
